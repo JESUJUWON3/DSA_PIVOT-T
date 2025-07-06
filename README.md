@@ -2,8 +2,8 @@
 My project case 1. This is where several pivot tables were created of the file given. This though not perfect will be part of stepping stones to perfection.
 ## Project Topic - Amazon product review analysis
 ## Project overview
-The project has led to visially brief tables; several pivot tables. 
-Excel was used for daya loading and preparation of Pivot Tables.
+The project has led to visually brief tables; several pivot tables. 
+Excel was used for data loading and preparation of Pivot Tables.
 ### EDA
 - Categories listed - 9
 - What products have the highest average ratings = Electronics
